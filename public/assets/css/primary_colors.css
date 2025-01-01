@@ -1,0 +1,23 @@
+:root {
+    --primary: #0e67b4;
+    --primary_hover: #333333;
+}
+@import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@400;700&display=swap");
+
+body {
+    font-size: 14px;
+    font-family: "Gabarito", sans-serif;
+    font-weight: 400;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Gabarito", sans-serif;
+    font-weight: 700;
+}
+.card-header {
+    color: var(--primary);
+}
