@@ -17,6 +17,7 @@
         $og_image = asset('assets/images/feature-image.png');
     }
     ?>
+    {{-- test data --}}
     <title>{{ $title }}</title>
 
     <!-- Fonts -->
